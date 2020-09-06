@@ -1,0 +1,167 @@
+[
+ {
+        "img":"images/apples1.jpg",
+        "name":"Apple",
+        "desc":"An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.",
+        "View":"far fa-eye",
+        "Love":"far fa-heart",
+        "Cart":"fas fa-shopping-cart",
+        "Price":"Rs.250/Kg"
+ },
+ {
+    "img":"images/banana.jpg",
+    "name":"Banana",
+    "desc":"Musa is one of two or three genera in the family Musaceae; it includes bananas and plantains. Around 70 species of Musa are known, with a broad variety of uses. Though they grow as high as trees, banana and plantain plants are not woody .",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.250/12"
+},
+{
+    "img":"images/grapes.jpg",
+    "name":"Black Grapes",
+    "desc":"Black grapes, which are known for their velvety colour and sweet flavour, come packed with nutrients and antioxidants. With their cultivation dating back to 6,000 to 8,000 years ago, they are said to be the oldest cultivated fruit in the Near East and Europe.",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.190/Kg"
+
+},
+{
+    "img":"images/coconut.jpg",
+    "name":"Coconut",
+    "desc":"Coconut is the fruit of the coconut palm (Cocos nucifera). It's used for its water, milk, oil, and tasty meat. Coconuts have been grown in tropical regions for more than 4,500 years but recently increased in popularity for their flavor, culinary uses, and potential health benefits",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.25/1"
+},
+{
+    "img":"images/grapes2.jpg",
+    "name":"Green Grapes",
+    "desc":"Green seedless grapes are small to medium in size and are round to slightly oval in shape, growing in tight or loose clusters depending on the variety.The skin ranges from lightgreen to bright-gree so this is green grapse so here the green seed less grapes we have",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.250/1kg"
+},
+{
+    "img":"images/grapes3.jpg",
+    "name":"Red Seedless Grapes",
+    "desc":"Red seedless grapes are small to medium in size and are round to slightly oblong in shape, growing in medium to large clusters. ... Red seedless grapes are firm, crisp, and sweet with a mild, neutral flavor.so this is th Red seedless grapes",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.520/1kg"
+},
+{
+    "img":"images/mangoes.jpg",
+    "name":"Mangos",
+    "desc":"Mango, Mangifera indica, is an evergreen tree in the family Anacardiaceae grown for its edible fruit. The mango tree is erect and branching with a thick trunk and broad, rounded canopy. ... The mango fruit is roughly oval in shape, with uneven sides.",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.425/1kg"
+},
+{
+    "img":"images/guava.jpg",
+    "name":"Guavas",
+    "desc":"Guavas are tropical trees originating in Central America. Their fruits are oval in shape with light green or yellow skin and contain edible seeds. What's more, guava leaves are used as an herbal tea and the leaf extract as a supplement",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1kg"
+},
+{
+    "img":"images/mellons.jpg",
+    "name":"Melons",
+    "desc":"A melon is any of various plants of the family Cucurbitaceae with sweet, edible, and fleshy fruit. The word melon can refer to either the plant or specifically to the fruit. Botanically, a melon is a kind of berry, specifically a pepo.",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+},
+{
+    "img":"images/mosambies.jpg",
+    "name":"mosambies",
+    "desc":"Sweet lime, also known as 'mosambi' in Hindi is a citrus fruit found mostly in south-east Asia. ... Mosambi fruits are small, green citrus fruits of round/oval shape, which turn yellow on ripening. This tree grows easily in tropical and sub-tropical climates",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+},
+{
+    "img":"images/oranges.jpg",
+    "name":"Oranges",
+    "desc":"Oranges are round orange-coloured fruit that grow on a tree which can reach 10 metres (33 ft) high. Orange trees have dark green shiny leaves and small white flowers with five petals.The flowers smell very sweet which attracts many bees.   ",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+},
+{
+    "img":"images/pappaya.jpg",
+    "name":"Papaya",
+    "desc":"The papaya is a small, sparsely branched tree, usually with a single stem growing from 5 to 10 m (16 to 33 ft) tall, with spirally arranged leaves confined to the top of the trunk. The lower trunk is conspicuously scarred where leaves and fruit were borne.",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+},
+{
+    "img":"images/pinapples.jpg",
+    "name":"Pineapple",
+    "desc":"Pineapple, Ananas comosus, is an herbaceous biennial or perennial plant in the family Bromeliaceae grown for its edible fruit. ... This fruit, known as a pineapple, has a tough rind made up of hexagonal units and a fibrous, juicy flesh which may be yellow to white in color.",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+},
+{
+    "img":"images/pomogranets.jpg",
+    "name":"Pomegranates",
+    "desc":"Pomegranate, Punica granatum, is a deciduous or evergreen tree or shrub in the family Punicaceae grown for its edible fruits. ... The fruit has a thick, leathery rind which protects the pulp and seeds inside. The inside of the fruit is separated into white compartments",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+},
+{
+    "img":"images/sapota.jpg",
+    "name":"Sapodilla",
+    "desc":"Manilkara zapota, commonly known as sapodilla, sapota, chikoo, naseberry, or nispero is a long-lived, evergreen tree native to southern Mexico, Central America and the Caribbean. An example natural occurrence is in coastalYucatan in the Petenes mangroves ecoregion",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+},
+{
+    "img":"images/sithaphal.jpg",
+    "name":"Sitaphal/Custard Apple",
+    "desc":"The custard apple tree grows up to a height of 5 to 9 feet, carrying huge green leaves and yellow flowers shaped like a trumpet. The fruits are either green or brown in colour and oblong in shape. When completely ripened",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+},
+{
+    "img":"images/strawberries.jpg",
+    "name":"Strawberry",
+    "desc":"A strawberry is both a low-growing, flowering plant and also the name of the fruit that it produces. Strawberries are soft, sweet, bright red berries. ... Strawberries have tiny edible seeds, which grow all over their surface",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+},
+{
+    "img":"images/watermellons.jpg",
+    "name":"Watermelon",
+    "desc":"The watermelon is a large fruit of a more or less spherical shape. ... It has an oval or spherical shape and a dark green and smooth rind, sometimes showing irregular areas of a pale green colour. It has a sweet, juicy, refreshing flesh of yellowish or reddish colour",
+    "View":"far fa-eye",
+    "Love":"far fa-heart",
+    "Cart":"fas fa-shopping-cart",
+    "Price":"Rs.125/1"
+}
+
+
+]
